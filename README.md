@@ -8,7 +8,8 @@ I'm an Electronics & Communication Engineering (ECE) student passionate about di
 - 💡 **Interests:** ASIC design flow, RTL Design, UVM, Physical Design, Digital Signal Processing
 - 🧰 **Tools:** Cadence (Virtuoso/Genus/Innovus), Synopsys, Xilinx Vivado, ModelSim, MATLAB
 - 💬 **Languages:** Verilog, SystemVerilog (basics), Python (scripting), MATLAB
-- 📫 **Reach:** (add your email / LinkedIn link here)
+- 📫 **Reach:** (yeginenidhruthi@gmail.com / https://www.linkedin.com/in/dhruthi-
+yegineni-541821277)
 
 ---
 
